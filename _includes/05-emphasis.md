@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hi, I'm [Amy](https://github.com/amydrummond) and I do work sometimes in _sql_ and _Python_ and **even** _R_.
