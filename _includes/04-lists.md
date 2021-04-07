@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* My Roomba
+* The Freer|Sackler Gallery of Art
+* My Passport
+* Lila
